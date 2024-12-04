@@ -1,11 +1,12 @@
-<h1 align="center">Hi guys 👋, I'm Vu Duc Tran</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h1 align="center">Xin chao guys 👋, I'm Vu Duc Tran</h1>
+<h3 align="center">new to tech</h3>
 
 - 🔭 I’m currently working on **Github profile readme generator**
 
-- 🌱 I’m currently learning **DSA and React**
+- 🌱 I’m currently learning **DSA, React and AWS**
 
-- 📫 How to reach me **dylantranatwork@gmail.com**
+- 📫 Reach me at **dylantranatwork@gmail.com**
+![snake gif](https://github.com/TranVuDuc04/TranVuDuc04/blob/output/github-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
